@@ -4,7 +4,7 @@
 
 ##  __Schedule__
 <span style="color:black">
-    
+
 |Time|Content|
 |---|---|
 |09:00 - 10:00|Introduction|
@@ -19,11 +19,11 @@
 ## <span style="color:black"> __Introduction into Ansible__ </span>
  
 
-* <span style="color:black"> Configuration Management : 
+* <span style="color:green"> Configuration Management : 
     *  Keep servers, containers, and network gear in a desired state (packages, users, permissions, services).
-* <span style="color:black"> Application Deployment: 
+* <span style="color:green"> Application Deployment: 
     * Push application code or artifacts to multiple environments with repeatability and zero-downtime techniques.
-* <span style="color:black"> Orchestration : 
+* <span style="color:green"> Orchestration : 
     * Coordinate multi-tier roll-outs (e.g., update DB, then web, then cache) or cloud resource lifecycles.
 
 
