@@ -47,18 +47,23 @@ This is where you take notes on your content. In the following content blocks, y
 (__super useful__: it doesn't matter which number you choose, it will be displayed as 1,2, etc. )
 </span>
 ---
-
 ## <span style="color:black"> __Links, Quotes, Pictures and GIFs__ </span>
 
 * you can use links in your notes by using this formatting:  
-[link text](link URL “title”) becomes [neue fische website](https://www.neuefische.de/ "neue fische website")
-* you can also use pictures in your notes by using this format:   
-![image text](image URL) becomes ![neue fische logo](https://www.neuefische.de/neuefische-gmbh-logo.svg)
-* block quotes: you can highlight a quote from someone by using an angle bracket (>), for example: 
-    > I think there is a world market for maybe five computers. - Thomas J. Watson Sr.
-* use GIFs with the same formatting as links and pictures, the URL you use must end with .gif and if it expires, your gif will not be seen anymore  
-example: ![Fish Gif](https://media.giphy.com/media/KAI3j7HLC93Lq/giphy.gif)
+[link text](link URL “title”) becomes [Ironhack website](https://www.ironhack.com/ "Ironhack website")
 
+* you can also use pictures in your notes by using this format:   
+![image text](image URL) becomes ![Ironhack logo](https://www.ironhack.com/assets/ironhack-logo.svg)
+
+* you can also link internal learning content, for example:  
+[Ironhack Learning Platform](https://my.ironhack.com/ "Ironhack LMS")
+
+* block quotes: you can highlight a quote from someone by using an angle bracket (>), for example:  
+> I think there is a world market for maybe five computers. - Thomas J. Watson Sr.
+
+* use GIFs with the same formatting as links and pictures, the URL you use must end with .gif and if it expires, your gif will not be seen anymore  
+example:  
+![Example Gif](https://media.giphy.com/media/KAI3j7HLC93Lq/giphy.gif)
 
 ---
 ## <span style="color:black"> __Taking Good Notes__ </span>
